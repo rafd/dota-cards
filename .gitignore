@@ -1,0 +1,6 @@
+/resources/public/
+/target/
+/checkouts/
+.lein-repl-history
+figwheel_server.log
+
